@@ -9,7 +9,7 @@ From the age of 6 (since 1997) I spend time on the computer. I mainly work on We
 * 🌍  I'm based in Turkey
 
 <a href="https://www.github.com/Davutakca" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Davutakca?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/Quantaism?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
